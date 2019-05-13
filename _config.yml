@@ -2,4 +2,8 @@ theme: jekyll-theme-hacker
 
 title: [Gamers Live - MadLad's Creations]
 description: [Mods/Tools/Apps]
-show_downloads: ["false"]
+show_downloads: ["true"]
+
+github:
+  zip_url: https://github.com/MadLad1Clip/GamersLive-Dashboard-App/archive/V1.0.zip
+  another_url: https://github.com/MadLad1Clip/GamersLive-Dashboard-App/releases/download/V1.0/GamersLive.Dashboard.exe
