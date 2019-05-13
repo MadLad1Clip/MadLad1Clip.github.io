@@ -8,7 +8,7 @@ Here is a full list of my creations.
 Downloads....
 
 # **GamersLive Dashboard**
-## This is a simple app created to help streamers create a countdown timer that can be displayed on stream live. This is a simple app easy to setup and use.
+## This is a simple app created to help streamers set a countdown timer that can be displayed on stream live. This is a simple app easy to setup and use.
 ### [GamersLive Dashboard](https://github.com/MadLad1Clip/GamersLive-Dashboard-App/releases)
 
 
